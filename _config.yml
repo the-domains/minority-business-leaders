@@ -1,4 +1,3 @@
-layout_spectrum: 0.5198740432970226
 typography_spectrum: 0.30008311732672155
 color:
   brandStrength: 0.5736260006669909
@@ -11,4 +10,6 @@ color:
     - '#F5F6D4'
     - '#A7C520'
     - '#493F0B'
-name: Minority Business Leaders
+layout_spectrum: 0.5198740432970226
+name: Minority Business Journal
+title: Minority Business Journal
